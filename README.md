@@ -1,8 +1,5 @@
 
-<h1 align="center">Hi , I'm Andre Ginja <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
+<h1 align="center">Hi , I'm Andre Ginja</h1>
 <hr/>
 <h4 align="center">Full-Stack Software Engineer with 3+ years of experience, adding development value in React.js, Next.js, Node.js, Docker, and other modern technologies. Led a 50% improvement in Observability coverage and a 32% increase in performance on critical pages at Cazoo, serving 3 million unique users. Creator of the "andginja" personal brand, developing a high-performance website with top Web Vitals metrics. Proficient in web3 technology, custom Discord bot development, and providing Community Security solutions for NFT Venture Capital firms. 
 </h4>
