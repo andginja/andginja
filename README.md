@@ -4,11 +4,7 @@
 <h4 align="center">Full-Stack Software Engineer with 3+ years of experience, adding development value in React.js, Next.js, Node.js, Docker, and other modern technologies. Led a 50% improvement in Observability coverage and a 32% increase in performance on critical pages at Cazoo, serving 3 million unique users. Creator of the "andginja" personal brand, developing a high-performance website with top Web Vitals metrics. Proficient in web3 technology, custom Discord bot development, and providing Community Security solutions for NFT Venture Capital firms. 
 </h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
-
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18"  /></p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=andginja&label=Profile%20views&color=0e75b6&style=plastic" alt="andginja" /> </p>
 
 ## 🛠️ My Skills
 
