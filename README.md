@@ -30,6 +30,7 @@
 
   ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
   ![ReactQuery](https://img.shields.io/badge/-React_Query-0D1117?style=flat&logo=reactquery)&nbsp;
+  ![Nextjs](https://img.shields.io/badge/-Next.js-0D1117?style=flat&logo=nextjs)&nbsp;
   ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript&logoColor=FF4154)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
