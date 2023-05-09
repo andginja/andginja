@@ -24,41 +24,11 @@
 
   - 💬 Ask me about **any technology**.
 
-  
-
-  <br>
-  
-
-</div>
-
-
-<div align="center">
-
-  `Developer and IT enthusiast`
   <br>
 
-  `=========================`
-  <br>
+  <div>
 
-  `¯\_(ツ)_/¯`
-</div>
-
-
-<div>
-
-  ## 📚 &nbsp;Currently studying
-
-  - Figma
-  - Microservices architecture
-  - Clean architecture
-  - TDD
-
-</div>
-
-
-<div>
-
-  ## 🛠️ &nbsp;My Tech Stacks
+  ## 🛠️ &nbsp;Tech Stack
 
   ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
