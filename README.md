@@ -35,7 +35,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
   ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql)&nbsp;
-  ![AWS](https://img.shields.io/badge/-.AWS-0D1117?style=flat&logo=aws&logoColor=FF9900)&nbsp;
+  ![AWS](https://img.shields.io/badge/-.AWS-0D1117?style=flat&logo=amazonaws&logoColor=FF9900)&nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)&nbsp;
   ![C#](https://img.shields.io/badge/-.NET-0D1117?style=flat&logo=.net&logoColor=007ACC)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
