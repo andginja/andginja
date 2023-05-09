@@ -16,14 +16,15 @@
 
   ## 🧭 &nbsp;About Me
 
-  - 📚 Information System student at UFPI.
-  <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
+  - 🔭 Full-Stack Software Engineer @ Cazoo, ex OutSystems | React, Next.js, TypeScript, Node.js | Web Performance | Content Creator | andginja.com.
+  
+  - ⚡ Digital Content Creator, City & Travel Photographer with millions of interactions on reels and photos.
 
   - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**, **Dart**, **Flutter** and **Python**.
 
   - 💬 Ask me about **any technology**.
 
-  - ⚡ Fun fact: I'm a <a href="https://en.wikipedia.org/wiki/Potato">potato</a>
+  
 
   <br>
   
