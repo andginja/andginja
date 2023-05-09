@@ -61,7 +61,7 @@
   ## 📫 &nbsp;My Contacts
 
   <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
-  [![LinkedIn Badge](https://img.shields.io/badge/-Andre Ginja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreginja/)](https://www.linkedin.com/in/andreginja/)&nbsp;
+  [![LinkedIn Badge](https://img.shields.io/badge/-Andre_Ginja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreginja/)](https://www.linkedin.com/in/andreginja/)&nbsp;
   [![Gmail Badge](https://img.shields.io/badge/-andginja@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:andginja@gmail.com)&nbsp;
   [![Instagram Badge](https://img.shields.io/badge/-andginja-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/andginja/)&nbsp;
   [![Twitter Badge](https://img.shields.io/badge/-andginja-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/andginja)&nbsp;
