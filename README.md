@@ -46,7 +46,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
     
 </div>
-
+ <br>
     <div>
 
   ## 🛠️ &nbsp;Tech Stack
@@ -69,7 +69,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
     
 </div>
-  
+   <br>
 <div>
 
   ## 📫 &nbsp;My Contacts
