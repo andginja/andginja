@@ -56,7 +56,7 @@
       <p>This platform serves as a canvas for experimentation, encompassing various aspects of Product, Design, Management, Analytics, and Engineering. It also features fully automated CI/CD pipelines for seamless development and deployment.</p>
       
  ### Web3 Discord Services
-      <p>I have been exposed to the NFT/Cryptocurrency industry since February 2021, as I joined it as a photographer. Then, given my professional context, I decided to shift my action radius to programming in this space and I have been working as such for more than two years now, focusing on topics such as Discord configuration and access management, and building custom Discord bots (with Node.js) such as Phishing Prevention tools, Link Checking, and Impersonation Detection.</p>
+ <p>I have been exposed to the NFT/Cryptocurrency industry since February 2021, as I joined it as a photographer. Then, given my professional context, I decided to shift my action radius to programming in this space and I have been working as such for more than two years now, focusing on topics such as Discord configuration and access management, and building custom Discord bots (with Node.js) such as Phishing Prevention tools, Link Checking, and Impersonation Detection.</p>
     
 </div>
    <br>
