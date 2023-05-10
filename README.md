@@ -47,6 +47,7 @@
     
 </div>
 <div>
+  ## 💬 &nbsp;About Me
  ## 📚 &nbsp;My Projects
   
   ### andginja (Personal Digital Brand)
