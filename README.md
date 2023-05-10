@@ -58,7 +58,7 @@
  ### Web3 Discord Services
  <p>Starting in February 2021 as a photographer in the NFT and Cryptocurrency industry, I soon shifted my focus to programming within this space. For over two years, I have worked with Venture Capital NFT projects, specializing in Discord configuration, access management, and custom Discord bot development using Node.js. My bots emphasize Phishing Prevention, Link Checking, and Impersonation Detection, while maintaining high performance and scalability to accommodate the large user base within each community I collaborate with.</p>
       
-### Next Fake Shop
+### [Next Fake Shop)](https://github.com/andginja/next-fake-shop)&nbsp;
 <p>This project simulates an E-commerce store using Next.js 13. Users can search and view products, and manage their cart with add/remove functionality. The app integrates with an E-commerce API for product data and cart management. Key features include responsive design, lightbox gallery, and hover states for interactive elements.</p>
       <p>Technical Highlights</p>
       <ul>
