@@ -56,8 +56,19 @@
       <p>This platform serves as a canvas for experimentation, encompassing various aspects of Product, Design, Management, Analytics, and Engineering. It also features fully automated CI/CD pipelines for seamless development and deployment.</p>
       
  ### Web3 Discord Services
- <p>Description: Starting in February 2021 as a photographer in the NFT and Cryptocurrency industry, I soon shifted my focus to programming within this space. For over two years, I have worked with Venture Capital NFT projects, specializing in Discord configuration, access management, and custom Discord bot development using Node.js. My bots emphasize Phishing Prevention, Link Checking, and Impersonation Detection, while maintaining high performance and scalability to accommodate the large user base within each community I collaborate with.</p>
-    
+ <p>Starting in February 2021 as a photographer in the NFT and Cryptocurrency industry, I soon shifted my focus to programming within this space. For over two years, I have worked with Venture Capital NFT projects, specializing in Discord configuration, access management, and custom Discord bot development using Node.js. My bots emphasize Phishing Prevention, Link Checking, and Impersonation Detection, while maintaining high performance and scalability to accommodate the large user base within each community I collaborate with.</p>
+      
+### Next Fake Shop
+<p>This project simulates an E-commerce store using Next.js 13. Users can search and view products, and manage their cart with add/remove functionality. The app integrates with an E-commerce API for product data and cart management. Key features include responsive design, lightbox gallery, and hover states for interactive elements.</p>
+      <p>Technical Highlights</p>
+      <ul>
+        <li>Next.js for a performant framework</li>
+        <li>API calls with React Query for caching</li>
+        <li>Custom useLocalStorage hook for cart data persistence</li>
+        <li>Optimized performance with useCallback</li>
+        <li>Styled-components for efficient styling</li>
+        <li>Unit testing with Jest</li>
+      </ul>
 </div>
    <br>
 <div>
