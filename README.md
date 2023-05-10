@@ -51,7 +51,7 @@
 
   ## 📚 &nbsp;My Projects
 
-  ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
+  ### andginja (Personal Digital Brand)
   ![ReactQuery](https://img.shields.io/badge/-React_Query-0D1117?style=flat&logo=reactquery)&nbsp;
   ![Nextjs](https://img.shields.io/badge/-Next.js-0D1117?style=flat&logo=next.js)&nbsp;
   ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript&logoColor=3178C6)&nbsp;
@@ -80,8 +80,6 @@
   [![Instagram Badge](https://img.shields.io/badge/-andginja-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/andginja/)&nbsp;
   [![Twitter Badge](https://img.shields.io/badge/-andginja-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/andginja)&nbsp;
 </div>
-
-📚 &nbsp;My Projects
 
 ------
 Credits: [andginja](https://github.com/andginja)
