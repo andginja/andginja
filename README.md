@@ -54,21 +54,8 @@
   ###  [andginja (Personal Digital Brand)](https://andginja.com)&nbsp;
   <p>This is my personal brand, created when I started doing photography as a hobby. Nowadays, it is built with React/Next.js, with fully automated CI/CD pipelines. This app is also integrating a headless CMS (Contentful) where I generate niche guides using ChatGPT, in an attempt to demonstrate SEO automation optimization. This project uses React's best practices, such as React Hooks, Custom Hooks, and the Context API. Additionally, it is also using React Query to fetch data from APIs, in order to grant caching within the system. The project also serves the purpose of granting maximum WebVitals optimization, as it directly affects Organic Performance, and therefore indexing.</p>
       <p>Besides that, my personal brand is based on the work I produce as a City & Travel photographer, totalling more than 20k instagram followers, with millions of interactions, namely reels with more than 1.5 million views. I treat this brand as a white canvas, where I experiment everything related to Product, Design, Management, Analytics, and Engineering.</p>
-  ![ReactQuery](https://img.shields.io/badge/-React_Query-0D1117?style=flat&logo=reactquery)&nbsp;
-  ![Nextjs](https://img.shields.io/badge/-Next.js-0D1117?style=flat&logo=next.js)&nbsp;
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript&logoColor=3178C6)&nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql)&nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=flat&logo=mongodb&logoColor=47A248)&nbsp;
-  ![AWS](https://img.shields.io/badge/-Amazon_AWS-0D1117?style=flat&logo=amazonaws&logoColor=FF9900)&nbsp;
-  ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)&nbsp;
-  ![C#](https://img.shields.io/badge/-.NET-0D1117?style=flat&logo=.net&logoColor=007ACC)&nbsp;
-  ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+      
+ ### Web3 Discord Services
     
 </div>
    <br>
