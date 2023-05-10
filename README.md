@@ -46,12 +46,30 @@
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
     
 </div>
-<div>
-  ## 💬 &nbsp;About Me
- ## 📚 &nbsp;My Projects
+
+    <div>
+
+  ## 🛠️ &nbsp;Tech Stack
+
+  ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
+  ![ReactQuery](https://img.shields.io/badge/-React_Query-0D1117?style=flat&logo=reactquery)&nbsp;
+  ![Nextjs](https://img.shields.io/badge/-Next.js-0D1117?style=flat&logo=next.js)&nbsp;
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript&logoColor=3178C6)&nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql)&nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=flat&logo=mongodb&logoColor=47A248)&nbsp;
+  ![AWS](https://img.shields.io/badge/-Amazon_AWS-0D1117?style=flat&logo=amazonaws&logoColor=FF9900)&nbsp;
+  ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)&nbsp;
+  ![C#](https://img.shields.io/badge/-.NET-0D1117?style=flat&logo=.net&logoColor=007ACC)&nbsp;
+  ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+    
+</div>
   
-  ### andginja (Personal Digital Brand)
-  </div>
 <div>
 
   ## 📫 &nbsp;My Contacts
@@ -63,7 +81,7 @@
   [![Twitter Badge](https://img.shields.io/badge/-andginja-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/andginja)&nbsp;
 </div>
 
-
+📚 &nbsp;My Projects
 
 ------
 Credits: [andginja](https://github.com/andginja)
