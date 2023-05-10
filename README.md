@@ -49,7 +49,7 @@
  <br>
     <div>
 
-  ## 🛠️ &nbsp;Tech Stack
+  ## 📚 &nbsp;My Projects
 
   ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
   ![ReactQuery](https://img.shields.io/badge/-React_Query-0D1117?style=flat&logo=reactquery)&nbsp;
