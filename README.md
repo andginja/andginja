@@ -46,7 +46,9 @@
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
     
 </div>
-
+<div>
+ ## 📚 &nbsp;My Projects
+  </div>
 <div>
 
   ## 📫 &nbsp;My Contacts
@@ -58,7 +60,6 @@
   [![Twitter Badge](https://img.shields.io/badge/-andginja-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/andginja)&nbsp;
 </div>
 
-<!-- ## 📚 &nbsp;My Projects -->
 
 
 ------
