@@ -51,7 +51,7 @@
 
   ## 📚 &nbsp;My Projects
 
-  ###  [andginja (Personal Digital Brand)](https://github.com/andginja)&nbsp;
+  ###  [andginja (Personal Digital Brand)](https://andginja.com)&nbsp;
   ![ReactQuery](https://img.shields.io/badge/-React_Query-0D1117?style=flat&logo=reactquery)&nbsp;
   ![Nextjs](https://img.shields.io/badge/-Next.js-0D1117?style=flat&logo=next.js)&nbsp;
   ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript&logoColor=3178C6)&nbsp;
