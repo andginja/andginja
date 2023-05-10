@@ -53,7 +53,7 @@
 
   ###  [andginja (Personal Digital Brand)](https://andginja.com)&nbsp;
   <p>This is my personal brand, created when I started doing photography as a hobby. Nowadays, it is built with React/Next.js, with fully automated CI/CD pipelines. This app is also integrating a headless CMS (Contentful) where I generate niche guides using ChatGPT, in an attempt to demonstrate SEO automation optimization. This project uses React's best practices, such as React Hooks, Custom Hooks, and the Context API. Additionally, it is also using React Query to fetch data from APIs, in order to grant caching within the system. The project also serves the purpose of granting maximum WebVitals optimization, as it directly affects Organic Performance, and therefore indexing.</p>
-      <p>Besides that, my personal brand is based on the work I produce as a City & Travel photographer, totalling more than 20k instagram followers, with millions of interactions, namely reels with more than 1.5 million views.</p>
+      <p>Besides that, my personal brand is based on the work I produce as a City & Travel photographer, totalling more than 20k instagram followers, with millions of interactions, namely reels with more than 1.5 million views. I treat this brand as a white canvas, where I experiment everything related to Product, Design, Management, Analytics, and Engineering.</p>
   ![ReactQuery](https://img.shields.io/badge/-React_Query-0D1117?style=flat&logo=reactquery)&nbsp;
   ![Nextjs](https://img.shields.io/badge/-Next.js-0D1117?style=flat&logo=next.js)&nbsp;
   ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript&logoColor=3178C6)&nbsp;
