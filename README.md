@@ -16,7 +16,7 @@
 
   ## 💬 &nbsp;About Me
 
-  - 🔭 Full-Stack Software Engineer @ Cazoo, ex OutSystems | React, Next.js, TypeScript, Node.js | Web Performance | Content Creator | andginja.com.
+  - 🔭 Software Engineer (Frontend) @ Rarible, ex Cazoo, OutSystems | React, Next.js, TypeScript, Node.js | Web Performance | Content Creator | andginja.com.
   
   - ⚡ Digital Content Creator, City & Travel Photographer with millions of interactions on reels and photos.
 
